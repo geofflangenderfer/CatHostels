@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ApplicationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-08-19T02:18:55" hostname="DESKTOP-STJV0B6" time="1.395">
+  <properties/>
+  <testcase name="emptyPath" classname="ApplicationTest" time="1.395"/>
+  <system-out><![CDATA[21:18:56.001 [Test worker] INFO ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
